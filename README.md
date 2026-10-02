@@ -57,7 +57,7 @@ Training accuracy is measured while data augmentation and dropout are active, wh
 ├── predict.py          # predicts the class of an image using the saved model
 ├── best_model.keras    # saved model (best validation loss)
 ├── images/
-│   ├── architecture.jpg    # model architecture image used in this README
+│   ├── model_architecture.jpg    # model architecture image used in this README
 │   └── test_image.jpg      # example image for testing predictions
 ├── requirements.txt    # Python dependencies
 ├── .gitignore
