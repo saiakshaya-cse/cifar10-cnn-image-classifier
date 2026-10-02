@@ -69,8 +69,8 @@ Training accuracy is measured while data augmentation and dropout are active, wh
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/saiakshaya-cse/image-classifier-cifar10.git
-cd image-classifier-cifar10
+git clone https://github.com/saiakshaya-cse/cifar10-cnn-image-classifier
+cd cifar10-cnn-image-classifier
 ```
 
 Replace the URL with your own repository's URL if the name is different.
