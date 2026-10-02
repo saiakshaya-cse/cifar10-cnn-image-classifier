@@ -96,14 +96,9 @@ Using the included example image (`images/test_image.jpg`):
 ```bash
 python predict.py
 ```
+To test a different image, change the image path inside predict.py.
 
-Using your own image:
-
-```bash
-python predict.py path/to/your_image.jpg
-```
-
-The script resizes the image to 32x32, loads `best_model.keras`, and prints predicted class and confidence.
+The script resizes the image to 32x32, loads `best_model.keras`, and prints the  predicted class and  its confidence.
 
 ## Example Prediction
 
