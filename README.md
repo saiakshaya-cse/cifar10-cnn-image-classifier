@@ -103,7 +103,7 @@ Using your own image:
 python predict.py path/to/your_image.jpg
 ```
 
-The script resizes the image to 32x32, loads `best_model.keras`, and prints the top 3 predicted classes with their confidence.
+The script resizes the image to 32x32, loads `best_model.keras`, and prints predicted class and confidence.
 
 ## Example Prediction
 
